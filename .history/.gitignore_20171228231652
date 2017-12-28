@@ -25,7 +25,6 @@ temp/
 hooks/
 platforms/
 www/
-build/
 $RECYCLE.BIN/
 
 .DS_Store
